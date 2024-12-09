@@ -1,0 +1,17 @@
+Classifier,Dataset,Normalized Score
+RF,breast cancer,0.8135
+L-SVC,breast cancer,0.821
+KNN,breast cancer,0.6656
+NB,breast cancer,0.6571
+RF,spambase,0.7869
+L-SVC,spambase,0.7831
+KNN,spambase,0.7147
+NB,spambase,0.7242
+RF,heart disease,0.7584
+L-SVC,heart disease,0.7176
+KNN,heart disease,0.7145
+NB,heart disease,0.5977
+RF,income,0.6586
+L-SVC,income,0.6063
+KNN,income,0.4752
+NB,income,0.4431
