@@ -8,15 +8,16 @@ This project explores the performance of four supervised machine learning classi
 
 ### How to Run
 
+1. Clone the repo
 
-1. Install the required Python packages:
+2. Install the required Python packages:
 pip install -r requirements.txt
 
-2. Open and run the Jupyter notebook to view the analysis and results:
+3. Open and run the Jupyter notebook to view the analysis and results:
 jupyter notebook final_project.ipynb  
 source code at `source.py`
 
-3. `tables` folder contains csv tables summarizing the results  
+4. `tables` folder contains csv tables summarizing the results  
 
 ### Datasets
 

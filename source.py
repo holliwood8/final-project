@@ -1,22 +1,11 @@
 # imports 
-from sklearn.compose import ColumnTransformer
 import pandas as pd
-# from sklearn.preprocessing import MultiLabelBinarizer, OneHotEncoder
-# from sklearn.ensemble import RandomForestClassifier
-# from sklearn.svm import LinearSVC
-# from sklearn.neighbors import KNeighborsClassifier
-# from sklearn.pipeline import make_pipeline, Pipeline
-# from sklearn.neural_network import MLPClassifier
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import StandardScaler
-# from sklearn.linear_model import LogisticRegression
-# from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import roc_auc_score, f1_score
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import accuracy_score
-import numpy as np
-#from sklearn.exceptions import NotFittedError
 import matplotlib.pyplot as plt
 import seaborn as sns
 
